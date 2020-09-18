@@ -1,0 +1,22 @@
+{
+  "name": "my-first-express-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hpsmatheus/my-first-express-app.git"
+  },
+  "author": "matheus.santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hpsmatheus/my-first-express-app/issues"
+  },
+  "homepage": "https://github.com/hpsmatheus/my-first-express-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
